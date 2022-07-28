@@ -1,6 +1,13 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
 /* carousel section start */
 .caption-font {
     font-size: 4rem;
+}
+.caption-font-2 {
+    font-size: 3rem;
 }
 
 .carousel-item {
@@ -28,7 +35,7 @@
 }
 
 .carousel-caption {
-    bottom: 250px !important;
+    bottom: 220px !important;
     z-index: 2;
 }
 
