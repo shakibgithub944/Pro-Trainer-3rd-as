@@ -63,6 +63,14 @@
 
     }
 
+    .caption-font {
+        font-size: 3rem;
+    }
+
+    .carousel-caption {
+        bottom: 100px !important;
+    }
+
 }
 
 @media screen and (max-width:960px) {
