@@ -46,3 +46,15 @@
 /*-----------------
                         carousel secton end
                                             --------- */
+
+@media screen and (max-width:576px) {
+    
+    .res{
+        flex-direction: column;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+
+    }
+    
+}
